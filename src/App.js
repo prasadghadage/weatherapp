@@ -28,7 +28,7 @@ function App() {
  
   return (
    <>
-   <h1 className='heading'>WheatherApp</h1>
+   <h1 className='heading'>WeatherApp</h1>
     <div className="card">
     <div className='search'>
       <input 
