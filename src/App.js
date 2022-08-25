@@ -28,7 +28,7 @@ function App() {
  
   return (
    <>
-   <h1 className='heading'>WeatherApp</h1>
+   <h1 className='heading'>Weather App</h1>
     <div className="card">
     <div className='search'>
       <input 
@@ -42,7 +42,7 @@ function App() {
         </div>
        {typeof weatherData.main ==='undefined'?(
          <div>
-           <p>welcome to whether app</p>
+           <p>welcome to weather app</p>
          </div>
        ):(
          <div>
